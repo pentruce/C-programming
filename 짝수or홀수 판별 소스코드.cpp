@@ -1,6 +1,5 @@
 #include <stdio.h>
 int main() {
-	//kopo15_박소현
 
    printf("Input the front number of secuity number : ");   
    int arr[6];
